@@ -1,0 +1,62 @@
+# Eclipse and IntelliJ IDEA project files
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# MacOS
+.DS_Store
+
+# Maven
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+
+# Gradle
+.gradle/
+build/
+
+# Logs
+*.log
+
+# Dependency directories
+**/lib/
+
+# Environment variable files
+.env
+
+# Spring Boot specific files
+logs/
+spring.log
+
+# Temporary files
+tmp/
+temp/
+
+# Out directory
+out/
+
+# Ignore class files
+*.class
+
+# Ignore generated sources
+generated-sources/
+
+# Ignore node_modules for frontend projects
+node_modules/
+
+# Ignore test results
+test-results/
+
+# Ignore coverage reports
+coverage/
+.jacoco/
+.coverage/
+
+# Other IntelliJ IDEA project files
+.idea/
+*.ipr
+*.iws
